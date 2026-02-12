@@ -1,59 +1,70 @@
 <h1 align="center">Hi 👋, I'm Kumar Harsh</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Systems | Competitive Programmer</h3>
+<h3 align="center">🚀 Software Developer </h3>
 
 <p align="center">
   <a href="https://github.com/harshp0205">
-    <img src="https://komarev.com/ghpvc/?username=harshp0205&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;MERN+Stack+Engineer;AI+%2B+Backend+Focused;Knight+on+LeetCode" />
   </a>
-  <img src="https://img.shields.io/github/followers/harshp0205?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer (MERN + Next.js)
+- 💻 FSoftware Developer (React • Node • Next)
 - ⚔️ Knight on LeetCode | Pupil on Codeforces
-- 🚀 Building scalable AI-powered systems
-- 🧩 Strong in DSA, System Design & Backend
+- 🚀 Backend & System Design Enthusiast
+- 🤖 Exploring AI + LLM Integrations
 - 🐼 Fun fact: People call me **Panda**
+
+📫 **kumarharsh0205@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/harshp0205" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
+<a href="https://twitter.com/harshp0205" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
 </a>
-<a href="https://linkedin.com/in/kumarharsh-p" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/kumarharsh-p" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-<a href="https://codeforces.com/profile/panda_codes" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="30" width="40" />
+<a href="https://codeforces.com/profile/panda_codes" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" height="40" style="filter: invert(1);"/>
 </a>
 </p>
 
-📫 Reach me at: **kumarharsh0205@gmail.com**
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-`C++` `JavaScript` `TypeScript` `Python` `Java`
+<p align="center">
 
-### 🌐 Frontend
-`React.js` `Next.js` `Redux` `TailwindCSS` `Bootstrap` `HTML` `CSS`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
 
-### ⚙️ Backend
-`Node.js` `Express.js` `REST APIs` `GraphQL`
+<br/>
 
-### 🗄️ Databases
-`MongoDB` `PostgreSQL` `MySQL` `Firebase`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
 
-### ☁️ DevOps & Tools
-`Docker` `AWS` `Git` `Postman` `Figma`
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+
+</p>
 
 ---
 
@@ -69,11 +80,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshp0205&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshp0205&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshp0205&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshp0205&theme=tokyonight&utcOffset=5.5"/>
 </p>
@@ -83,29 +89,6 @@
 ## 🐍 Contribution Graph
 
 ![snake gif](https://github.com/harshp0205/harshp0205/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-Powered Customer Support System
-GPT-based intelligent support system with sentiment analysis & microservices.
-
-### 🧠 MemoryVault (Chrome Extension)
-LLM-powered knowledge simplification & visualization extension.
-
-### 📦 Startup Idea Validator
-AI-based idea validation engine with scoring & business insights.
-
----
-
-## 🎯 Current Focus
-
-- 🔥 Advanced Backend Engineering
-- ⚡ Scalable System Architecture
-- 🧠 Competitive Programming
-- 🤖 AI + LLM Integrations
-- 🌍 Open Source Contributions
 
 ---
 
