@@ -82,7 +82,7 @@ fun_fact:        I think in recursion
 │   ├── C++            ████████████████████  Primary (CP + Systems)
 │   ├── TypeScript     ██████████████████░░  Daily driver
 │   ├── Python         ████████████████░░░░  AI/ML + scripting
-│   ├── JavaScript     ███████████████░░░░░  Frontend glue
+│   ├── JavaScript     ███████████████████░  Frontend glue
 │   └── Java           ████████████░░░░░░░░  When Java insists
 │
 ├── ⚙️  Backend
