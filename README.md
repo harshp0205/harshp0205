@@ -143,7 +143,7 @@ fun_fact:        I think in recursion
 ---
 
 <!-- CONNECT -->
-## `~/connect --all`
+## `~/connect -- all`
 
 <p align="center">
   <a href="https://linkedin.com/in/kumarharsh-p">
