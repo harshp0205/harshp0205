@@ -82,7 +82,7 @@ fun_fact:        I think in recursion
 │   ├── C++            ████████████████████  Primary (CP + Systems)
 │   ├── TypeScript     ██████████████████░░  Daily driver
 │   ├── Python         ████████████████░░░░  AI/ML + scripting
-│   ├── JavaScript     ███████████████████░  Frontend glue
+│   ├── JavaScript     ███████████████░░░░░  Frontend glue
 │   └── Java           ████████████░░░░░░░░  When Java insists
 │
 ├── ⚙️  Backend
@@ -119,7 +119,7 @@ fun_fact:        I think in recursion
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshp0205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshp0205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&v=2"/>
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ fun_fact:        I think in recursion
 ---
 
 <!-- CONNECT -->
-## `~/connect -- all`
+## `~/connect --all`
 
 <p align="center">
   <a href="https://linkedin.com/in/kumarharsh-p">
